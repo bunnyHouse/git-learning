@@ -1,0 +1,21 @@
+{
+  "name": "gulp_demo_2",
+  "description": "",
+  "main": "",
+  "authors": [
+    "bunnyhouse <756214593@qq.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
+}
