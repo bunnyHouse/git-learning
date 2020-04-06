@@ -24,7 +24,7 @@
         "gulp-uglify": "^3.0.2",
         "gulp-util": "^3.0.8",
         "main-bower-files": "^2.13.3",
-        "minimist": "^1.2.0",
+        "minimist": "^1.2.3",
         "open": "^7.0.0"
     }
 }
